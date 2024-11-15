@@ -1,6 +1,6 @@
 <h1 align='center'> ¡Hola, soy Estiven! 👋 </h1> 
 🌐 Desarrollador web backend <br>
-🔨 Laravel - Vue - Inertia - MySQL <br> 
+🔨 Laravel - React - Inertia - MySQL <br> 
 📌 APIs  RESTfull - aplicaciones web 
 
 📁 [Portafolio](https://maycol.netlify.app/)
